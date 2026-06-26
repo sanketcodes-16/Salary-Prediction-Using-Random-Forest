@@ -202,25 +202,25 @@ streamlit run app.py
 
 ## Home Page
 
-(Add Home Page Screenshot Here)
+![alt text](<screenshots/Home Page.png>)
 
 ---
 
 ## Employee Details
 
-(Add Input Form Screenshot Here)
+![alt text](<screenshots/Employee Details.png>)
 
 ---
 
 ## Prediction Result
 
-(Add Prediction Screenshot Here)
+![alt text](<screenshots/Prediction Result.png>)
 
 ---
 
 ## Probability Visualization
 
-(Add Probability Screenshot Here)
+![alt text](<screenshots/Prediction Probabilty.png>)
 
 ---
 
