@@ -103,7 +103,7 @@ padding-top:20px;
 # SIDEBAR
 # ============================================
 
-st.sidebar.title("💼 Salary Predictor")
+st.sidebar.title("💼 Income Predictor")
 
 st.sidebar.markdown("---")
 
@@ -121,7 +121,7 @@ st.sidebar.info(
 
 ✔ Fill employee details
 
-✔ Click **Predict Salary**
+✔ Click **Predict Income**
 
 ✔ View prediction & confidence
 """
@@ -134,7 +134,7 @@ st.sidebar.info(
 st.markdown(
 """
 <h1 class="main-title">
-💼 Employee Salary Prediction
+💼 Employee Income Prediction
 </h1>
 
 <p class="sub-title">
