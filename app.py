@@ -8,7 +8,7 @@ import pickle
 # ============================================
 
 st.set_page_config(
-    page_title="Employee Salary Prediction",
+    page_title="Employee Income Prediction",
     page_icon="💼",
     layout="wide"
 )
