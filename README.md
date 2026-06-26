@@ -1,4 +1,4 @@
-# 💼 Employee Salary Prediction Using Random Forest
+# 💼 Employee Income Prediction Using Random Forest
 
 <p align="center">
 
@@ -16,7 +16,7 @@
 
 # 📖 Project Overview
 
-Employee Salary Prediction is a Machine Learning web application that predicts whether an employee's annual income is:
+Employee Income Prediction is a Machine Learning web application that predicts whether an employee's annual income is:
 
 * 💰 **Less than or Equal to $50K**
 * 🎉 **Greater than $50K**
@@ -30,7 +30,7 @@ This project demonstrates the complete Machine Learning workflow—from data pre
 # 🚀 Features
 
 * Modern Streamlit User Interface
-* Employee Salary Prediction
+* Employee Income Prediction
 * Random Forest Machine Learning Model
 * Confidence Score
 * Prediction Probability
@@ -126,7 +126,7 @@ The trained model was saved as a **Pickle (.pkl)** file and deployed using Strea
 # 📂 Project Structure
 
 ```text
-Salary-Prediction-Using-Random-Forest/
+Income-Prediction-Using-Random-Forest/
 
 │
 
@@ -166,7 +166,7 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/Salary-Prediction-Using-Random
 ## Move to Project Folder
 
 ```bash
-cd Salary-Prediction-Using-Random-Forest
+cd Income-Prediction-Using-Random-Forest
 ```
 
 ---
